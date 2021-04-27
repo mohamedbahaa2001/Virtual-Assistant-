@@ -69,7 +69,7 @@ def send_email(receiver, subject, message):
     email.set_content(message)
     server.send_message(email)
 
-
+#add your contacts here in the first quotes add the name and in the second quote add the email address 
 contacts = {'': ''}
 
 

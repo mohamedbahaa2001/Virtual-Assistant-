@@ -1,0 +1,15 @@
+speech_recognition
+pyaudio
+pyttsx3
+wikipedia
+pywhatkit
+webbrowser
+time
+pyautogui as gui
+datetime
+pyjokes
+email
+EmailMessage
+smtplib
+pytube
+config

@@ -70,7 +70,7 @@ def send_email(receiver, subject, message):
     server.send_message(email)
 
 
-contacts = {'me': 'mohamedbahaa22.22@gmail.com'}
+contacts = {'': ''}
 
 
 def get_email_info():
